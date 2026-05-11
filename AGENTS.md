@@ -29,16 +29,16 @@ Cortex is **"SQLite for AI Agents"** — a single-file database that records age
   - ✅ Tests - 19 passing tests
   - ✅ `pip install cortex` works locally
 - ✅ Build system ready for PyPI
+- ✅ **GitHub repo created and pushed**
+  - ✅ https://github.com/jstoverthinker/cortex
+  - ✅ Apache 2.0 license
+  - ✅ README with correct URLs
 
 ### In Progress
-- 🚧 PyPI publish (requires owner account)
-- 🚧 GitHub repo creation
+- 🚧 PyPI publish (requires `twine upload dist/*`)
 - 🚧 Landing page TypeScript errors
 
 ### Blocked / Needs Owner Action
-- ⏳ PyPI publish (requires account setup)
-- ⏳ GitHub repo creation
-- ⏳ Install Rust for crate build
 - ⏳ Framework outreach (LangGraph, CrewAI, LlamaIndex)
 - ⏳ Pilot user conversations
 
@@ -117,11 +117,10 @@ Diff:
 
 ## Next Steps
 
-1. **Create GitHub repo** — owner needs to set up
-2. **Publish to PyPI** — `twine upload dist/*`
-3. **Fix landing page** — resolve TypeScript errors
-4. **Launch prep** — HN post, terminal GIF demo
-5. **Framework integrations** — LangGraph, CrewAI, LlamaIndex
+1. **Publish to PyPI** — `twine upload dist/*`
+2. **Fix landing page** — resolve TypeScript errors
+3. **Launch prep** — HN post, terminal GIF demo
+4. **Framework integrations** — LangGraph, CrewAI, LlamaIndex
 
 ## Quick Test Commands
 
