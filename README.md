@@ -197,8 +197,8 @@ MIT/Apache 2.0 dual license. PRs welcome.
 
 ## Links
 
-- **GitHub:** https://github.com/overthought-labs/cortex
-- **Docs:** https://cortex.overthoughtlabs.com
+- **GitHub:** https://github.com/jstoverthinker/cortex
+- **PyPI:** https://pypi.org/project/cortex/ (coming soon)
 - **Discord:** https://discord.gg/cortex
 
 ---
