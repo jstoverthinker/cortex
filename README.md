@@ -148,14 +148,6 @@ SELECT * FROM decisions WHERE tools_used LIKE '%search_flights%';
 | **Enterprise Teams** | Compliance requires explanations | Export audit logs, SOC 2 ready |
 | **Framework Authors** | Users can't debug agents | Embed as built-in debug mode |
 
-## Pricing
-
-| Tier | Price | Features |
-|------|-------|----------|
-| **Open Source** | $0 | Core features, SQLite backend, community support |
-| **Team** | $99/mo | Loop detection, audit export, priority support, dashboard |
-| **Enterprise** | Custom | SSO, on-prem, SOC 2/HIPAA, dedicated support |
-
 ## Roadmap
 
 ### Week 1-2: MVP ✅
